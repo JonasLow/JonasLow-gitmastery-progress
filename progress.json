@@ -280,5 +280,14 @@
       "You have not fetched Bob's changes yet!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1788423758.853543,
+    "completed_at": 1788423760.875502,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
   }
 ]
