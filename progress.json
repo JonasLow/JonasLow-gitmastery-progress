@@ -271,5 +271,14 @@
       "You did not pull Alice's changes to your own main branch!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1788423719.857334,
+    "completed_at": 1788423724.074885,
+    "comments": [
+      "You have not fetched Bob's changes yet!"
+    ],
+    "status": "Incomplete"
   }
 ]
