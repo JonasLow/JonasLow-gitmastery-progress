@@ -483,14 +483,5 @@
       "Great work comparing the branches successfully!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "merge-squash",
-    "started_at": 1789360288.361052,
-    "completed_at": 1789360292.628457,
-    "comments": [
-      "You should be using squash merge, not regular merge."
-    ],
-    "status": "Incomplete"
   }
 ]
