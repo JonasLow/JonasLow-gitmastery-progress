@@ -446,25 +446,5 @@
       "Great job fast-forward merging only 'with-sally'!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "merge-undo",
-    "started_at": 1789358965.668724,
-    "completed_at": 1789358969.980739,
-    "comments": [
-      "It appears the merge commits are still in the history of the 'main' branch. This shouldn't be the case",
-      "Reset the repository using \"gitmastery progress reset\" and start again"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "merge-undo",
-    "started_at": 1789359230.768975,
-    "completed_at": 1789359235.088013,
-    "comments": [
-      "The 'main' branch is not pointing to the correct commit. It should be pointing to the commit made just before the merges.",
-      "Reset the repository using \"gitmastery progress reset\" and start again"
-    ],
-    "status": "Incomplete"
   }
 ]
